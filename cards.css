@@ -1,0 +1,12 @@
+#space {
+	width: 200px;
+	height: 300px;
+	border: 1px solid green;
+	border-radius: 20px;
+	background-color: skyblue;
+	color: white;
+	font-size: 1.2em;
+	font-weight: 600;
+	font-style: italic;
+	text-align: center;
+}
